@@ -1,5 +1,8 @@
 _repo: Oliver-Cromwell-and-the-Rule-of-the-Puritans-in-England_57268
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 57268-h/images/cover.jpg
 creator:
   author:
     agent_name: Firth, C. H. (Charles Harding)
@@ -12,6 +15,8 @@ creator:
     gutenberg_agent_id: '45730'
     url: http://www.gutenberg.org/2009/agents/45730
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57268#Oliver-Cromwell-and-the-Rule-of-the-Puritans-in-England
 gutenberg_issued: '2018-06-04'
 gutenberg_type: Text
 identifiers:
